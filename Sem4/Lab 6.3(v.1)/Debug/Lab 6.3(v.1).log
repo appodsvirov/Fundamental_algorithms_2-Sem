@@ -1,0 +1,13 @@
+﻿  Ball.cpp
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(58,1): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(69,1): warning C4244:  -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(79,1): warning C4244:  -=: преобразование "double" в "int", возможна потеря данных
+  Lab 6.3(v.1).cpp
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(88,1): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(58,1): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(69,1): warning C4244:  -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(79,1): warning C4244:  -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Ball.h(88,1): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.3(v.1)\Lab 6.3(v.1).cpp(59,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab 6.3(v.1).vcxproj -> C:\Users\Антон\source\repos\Lab 6.1(v.2)\Debug\Lab 6.3(v.1).exe
