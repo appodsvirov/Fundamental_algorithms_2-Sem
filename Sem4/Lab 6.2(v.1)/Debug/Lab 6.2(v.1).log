@@ -1,0 +1,16 @@
+﻿  Lab 6.2(v.1).cpp
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(96,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(103,34): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(104,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(105,42): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(106,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(113,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(114,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(115,42): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(116,18): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(117,34): warning C4244:  =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Lab 6.2(v.1).cpp(374): warning C4715:  WndProc: значение возвращается не при всех путях выполнения
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(171): warning C4715:  Figure::GetState: значение возвращается не при всех путях выполнения
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(208): warning C4715:  Figure::GetBorder: значение возвращается не при всех путях выполнения
+C:\Users\Антон\source\repos\Lab 6.1(v.2)\Lab 6.2(v.1)\Figure.h(235): warning C4715:  Figure::GetTypeFill: значение возвращается не при всех путях выполнения
+  Lab 6.2(v.1).vcxproj -> C:\Users\Антон\source\repos\Lab 6.1(v.2)\Debug\Lab 6.2(v.1).exe
