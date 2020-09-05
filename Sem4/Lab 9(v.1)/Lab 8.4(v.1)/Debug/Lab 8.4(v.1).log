@@ -1,0 +1,11 @@
+﻿  Lab 8.4(v.1).cpp
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(22,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(28,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(63,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(67,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(116,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(119,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(135,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(138,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Антон\source\repos\Lab 8(v.1)\Lab 8.4(v.1)\Lab 8.4(v.1).cpp(159,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab 8.4(v.1).vcxproj -> C:\Users\Антон\source\repos\Lab 8(v.1)\Debug\Lab 8.4(v.1).exe
