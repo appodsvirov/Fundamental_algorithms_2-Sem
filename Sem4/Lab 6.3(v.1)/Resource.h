@@ -5,8 +5,11 @@
 #define IDM_APPLY_ON 201
 #define IDM_APPLY_EXIT 202
 #define IDM_STOP 203
-
-
+#define IDM_APPLY 204
+#define IDM_CANCEL 205
+#define IDM_SAVIND 206
+#define IDM_LOADING 207
+#define IDM_SAVING 208
 
 #define IDS_APP_TITLE			103
 
